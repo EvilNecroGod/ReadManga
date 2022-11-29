@@ -76,7 +76,6 @@ hr{
 }
 
 .content button:hover {
-  margin:15px;
   color: blueviolet;
   border: medium darkblue;
   box-shadow: 2px 5px 20px 1px #888888;
